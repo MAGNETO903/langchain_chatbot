@@ -1,0 +1,9 @@
+fastapi==0.103.2
+huggingface_hub==0.17.3
+langchain==0.0.313
+uvicorn==0.23.2
+pypdf==3.16.4
+sentence-transformers==2.2.2
+faiss-cpu==1.7.2
+llama-cpp-python==0.2.11
+chromadb==0.4.14
